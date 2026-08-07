@@ -66,9 +66,9 @@
 
 ## 📊 GitHub Stats
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush5154&show_icons=true&theme=default&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush5154&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush5154&layout=compact&theme=default&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush5154&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aayush5154&theme=default&hide_border=false)
 
