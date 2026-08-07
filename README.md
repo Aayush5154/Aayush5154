@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi 👋 I'm Aayush Vijay
 
-<!--
-**Aayush5154/Aayush5154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech (ECE) @ IIIT Kota  
+💻 Full Stack Developer (MERN)  
+🤖 AI & Product Engineering Enthusiast  
+🚀 Passionate about building scalable web applications and AI-powered products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- C++
+- Java
+- Python
+- JavaScript
+- C
+- SQL
+- React
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Tailwind CSS
+- Redux Toolkit
+- HTML5
+- CSS3
+- Git & GitHub
+
+---
+
+## 🤖 AI & ML
+
+- Generative AI
+- Agentic AI
+- Prompt Engineering
+- XGBoost
+- Flask
+- Azure AI Foundry
+- GitHub Copilot
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## 🌟 Featured Projects
+
+- 🚜 Farmer Insurance Claim System (GenAI)
+- 🌌 Exoplanet Prediction Model
+- 📚 Learning Management System
+- 🎥 VideoTube
+- ✍️ Blog Platform
+
+---
+
+## 🏆 Highlights
+
+- AI Virtual Internship @ Infosys Springboard
+- NASA Space Apps Challenge – Galactic Problem Solver
+- IIT Bombay Meshmerize – 2× Finalist, 2× Zonal Winner
+- EY Hackathon – 2 rounds cleared
+- Flipkart GRID participant
+
+---
+
+## 📊 GitHub Stats
+
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush5154&show_icons=true&theme=default&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush5154&layout=compact&theme=default&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aayush5154&theme=default&hide_border=false)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [vjaayush5154@gmail.com](mailto:vjaayush5154@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/aayush-vijay-9a794b294](https://www.linkedin.com/in/aayush-vijay-9a794b294/)
+- 💻 GitHub: [github.com/Aayush5154](https://github.com/Aayush5154)
+
+---
+
+## 📌 What I Like Building
+
+- Product-focused web apps
+- AI-powered workflows
+- Full-stack platforms
+- Data-driven applications
+
+---
+
+## ✨ Always learning, always building.
